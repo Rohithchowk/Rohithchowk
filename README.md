@@ -6,11 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithchowk" alt="rohithchowk" /></a> </p>
 
-- 🔭 I’m currently working on [Our college Information Management System](https://miscbit.vercel.app/)
 
 - 🌱 I’m currently learning **React Native .**
-
-- 👨‍💻 All of my projects are available at [https://rohithchowki.vercel.app/](https://rohithchowki.vercel.app/)
 
 - 💬 Ask me about **React.js, javascript ,Mongodb**
 
